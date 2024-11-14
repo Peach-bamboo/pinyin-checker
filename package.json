@@ -1,0 +1,26 @@
+{
+  "name": "pinyin-checker",
+  "version": "1.0.0",
+  "description": "Aids in checking the development file for fields that may be pinyin and displays them.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pinyin",
+    "checker",
+    "string-checker",
+    "chinese",
+    "text-analysis"
+  ],
+  "author": "Peachy",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Peach-bamboo/pinyin-checker.git"
+  },
+  "dependencies": {
+    "glob": "^7.1.7",
+    "fs": "^0.0.1-security"
+  }
+}
